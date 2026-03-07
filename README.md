@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working to improve my app building skills, I am tech-forward and leverage AI to assist.<br>I am a tech enthusiast and I love the Apple macOS ecosystem.<br>I am learning Python and Swift.<br>I would love help to make my apps better with your feedback.
+I am currently working to improve my app building skills, I am tech-forward and leverage Agentic Engineering to assist.<br>I am a tech enthusiast and I love the Apple macOS ecosystem.<br>I am learning Python and Swift.<br>I would love help to make my apps better with your feedback.
 
 
 ## 🌐 Socials:
