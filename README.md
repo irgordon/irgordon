@@ -12,17 +12,6 @@ I am a programmer focused on developing high-quality applications. I leverage Ag
 
 </div>
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=irgordon&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=irgordon&theme=swift&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irgordon&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=irgordon&icon=0&color=4)](https://visitcount.itsvg.in)
-
 ## Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iangordon) 
 
